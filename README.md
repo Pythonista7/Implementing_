@@ -3,6 +3,8 @@ Here's were I try and build some cool stuff from scratch inorder to better under
 
 <H4> 1.Build a neural net from scratch only NumPy</H4><br>
 
+[NN_from_Scratch.py](https://github.com/Pythonista7/Implementing_/blob/master/NN_from_Scratch.py)
+
 <H4> 2.A Neural Algorithm of Artistic Style- Leon A. Gatys,Alexander S. Ecker,Matthias Bethge</H4>https://arxiv.org/abs/1508.06576 <br>
 Learnt a lot along the way.From Tensorflow Eager Execution to Gram Matrix.<br>
 I've tried my best to document and comment each step along the way.<br>You can run this directly on Google colab ,link :
