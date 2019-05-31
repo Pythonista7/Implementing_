@@ -11,5 +11,4 @@ I've tried my best to document and comment each step along the way.<br>You can r
 
 Here are some sample results(This is not the best implementation):<br>
 
-![Ex1](https://github.com/Pythonista7/Implementing_/blob/master/ST_assets/City%20.jpg)
-
+![Ex1](https://github.com/Pythonista7/Implementing_/blob/master/ST_assets/Style_transfer.jpg)
