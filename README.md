@@ -2,7 +2,17 @@
 Here's were I try and build some cool stuff from scratch inorder to better understand them. <br>
 
 <H4> 1.Build a neural net from scratch only NumPy</H4><br>
+      Dependencies to run this code :<br>
+      
+* Numpy(numerical computational library)
+* sklearn(for a dataset to train and test the network)
 
+If you dont have the dependencies installed type the following in your command line:
+*    $pip3 install numpy
+*    $pip3 install sklearn
+
+Link to code below.      
+      
 [NN_from_Scratch.py](https://github.com/Pythonista7/Implementing_/blob/master/NN_from_Scratch.py)
 
 <H4> 2.A Neural Algorithm of Artistic Style- Leon A. Gatys,Alexander S. Ecker,Matthias Bethge</H4>https://arxiv.org/abs/1508.06576 <br>
