@@ -54,7 +54,6 @@ def sigmoid_prime(z):
 def cost_fn(y,h_x,m):
     cost=(1/m)*np.sum((-y*np.log(h_x)-(1-y)*np.log(1-h_x)))
     
-    #cost=0.5*np.sum((y-h_x)*(y-h_x))
 
     return cost
 
